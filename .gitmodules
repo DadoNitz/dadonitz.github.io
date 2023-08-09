@@ -1,3 +1,7 @@
 [submodule "Projeto-Spotify"]
 	path = Projeto-Spotify
 	url = https://github.com/DadoNitz/Projeto-spotify
+
+[submodule "GrupoSect-Project"]
+	path = GrupoSect-Project
+	url = https://github.com/DadoNitz/GrupoSect-Project
