@@ -3,7 +3,6 @@
 	url = https://github.com/DadoNitz/Projeto-spotify
 
 [submodule "GrupoSect-Project"]
-	path = ProjetoGruposect
+	path = GrupoSect-Project
 	url = https://github.com/DadoNitz/GrupoSect-Project
 
-	
