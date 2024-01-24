@@ -1,4 +1,4 @@
-# Portfólio de Desenvolvedor Full Stack - [Seu Nome]
+# Portfólio de Desenvolvedor Full Stack - Eduardo Nitz
 
 Bem-vindo ao meu portfólio! Este projeto foi inicialmente baseado no template DevFolio da BootstrapMade.com e foi devidamente personalizado para refletir minha identidade como desenvolvedor full stack.
 
