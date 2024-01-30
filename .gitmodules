@@ -6,9 +6,9 @@
 	path = GrupoSect-Project
 	url = https://github.com/DadoNitz/GrupoSect-Project
 
-[submodule "MyResume"]
-	path = MyResume
-	url = https://github.com/DadoNitz/MyResume
+[submodule "Arthur-Frota-Psicologo"]
+	path = Arthur-Frota-Psicologo
+	url = https://github.com/DadoNitz/Arthur-Frota-Psicologo
 
 [submodule "Jogo-do-Mario"]
 	path = Jogo-do-Mario
