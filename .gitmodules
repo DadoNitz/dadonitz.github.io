@@ -10,3 +10,6 @@
 	path = MyResume
 	url = https://github.com/DadoNitz/MyResume
 
+[submodule "Jogo-do-Mario"]
+	path = Jogo-do-Mario
+	url = https://github.com/DadoNitz/Jogo-do-Mario
