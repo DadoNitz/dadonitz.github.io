@@ -5,3 +5,8 @@
 [submodule "GrupoSect-Project"]
 	path = GrupoSect-Project
 	url = https://github.com/DadoNitz/GrupoSect-Project
+
+[submodule "MyResume"]
+	path = MyResume
+	url = https://github.com/DadoNitz/MyResume
+
