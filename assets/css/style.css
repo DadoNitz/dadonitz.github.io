@@ -340,8 +340,8 @@ a:hover {
   bottom: 15px;
   z-index: 996;
   background: #0078ff;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   border-radius: 50px;
   transition: all 0.4s;
 }
@@ -736,6 +736,7 @@ a:hover {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+
 .hero {
   height: 100vh;
   position: relative;
@@ -1137,10 +1138,9 @@ a:hover {
   margin-top: 4rem;
 }
 
-@media (min-width: 767px) {
-  .contact-mf .box-pl2 {
-    margin-top: 3rem;
-    padding-left: 0rem;
+@media (max-width: 768px) {
+  .col-md-4 {
+    width: 50%;
   }
 }
 

@@ -233,3 +233,16 @@
   new PureCounter();
 
 })()
+
+document.getElementById('english-btn').addEventListener('click', function() {
+  document.getElementById('english-btn').href = 'index_en.html';
+    document.getElementById('portuguese-btn').href = 'index.html';
+});
+
+document.getElementById('portuguese-btn').addEventListener('click', function() {
+    document.getElementById('english-btn').href = 'index_en.html';
+    document.getElementById('portuguese-btn').href = 'index.html';
+});
+
+
+
