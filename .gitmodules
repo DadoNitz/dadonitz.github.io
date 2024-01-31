@@ -9,7 +9,6 @@
 [submodule "Arthur-Frota-Psicologo"]
 	path = Arthur-Frota-Psicologo
 	url = https://github.com/DadoNitz/Arthur-Frota-Psicologo
-
-[submodule "Jogo-do-Mario"]
-	path = Jogo-do-Mario
-	url = https://github.com/DadoNitz/Jogo-do-Mario
+[submodule "Sublime-cafe"]
+	path = Sublime-cafe
+	url = https://github.com/DadoNitz/Sublime-cafe
