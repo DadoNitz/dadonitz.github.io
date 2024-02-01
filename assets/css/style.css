@@ -622,6 +622,8 @@ a:hover {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
+  position: absolute;
+  right: 15px;
   color: #fff;
   font-size: 28px;
   cursor: pointer;
@@ -639,6 +641,7 @@ a:hover {
     display: none;
   }
 }
+
 
 .navbar-mobile {
   position: fixed;
@@ -897,7 +900,7 @@ a:hover {
 }
 
 .service-box .s-title {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
   text-align: center;
   padding: 0.4rem 0;
