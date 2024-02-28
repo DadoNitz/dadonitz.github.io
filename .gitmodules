@@ -9,12 +9,17 @@
 [submodule "Arthur-Frota-Psicologo"]
 	path = Arthur-Frota-Psicologo
 	url = https://github.com/DadoNitz/Arthur-Frota-Psicologo
+
 [submodule "Sublime-cafe"]
 	path = Sublime-cafe
 	url = https://github.com/DadoNitz/Sublime-cafe
+
 [submodule "calendario"]
 	path = calendario
 	url = https://github.com/DadoNitz/calendario
+
 [submodule "passgenerator"]
 	path = passgenerator
 	url = https://github.com/DadoNitz/passgenerator
+
+
