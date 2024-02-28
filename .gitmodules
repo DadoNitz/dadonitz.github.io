@@ -12,3 +12,9 @@
 [submodule "Sublime-cafe"]
 	path = Sublime-cafe
 	url = https://github.com/DadoNitz/Sublime-cafe
+[submodule "calendario"]
+	path = calendario
+	url = https://github.com/DadoNitz/calendario
+[submodule "passgenerator"]
+	path = passgenerator
+	url = https://github.com/DadoNitz/passgenerator
